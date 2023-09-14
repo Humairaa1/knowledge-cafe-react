@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "cover": "https://i.ibb.co/0jjD8Sw/nice-business-desk-black-background.jpg",
+        "author-img": "https://i.ibb.co/6JJt0F3/jonas-svidras-bgo-E05-DFF9-U-unsplash.jpg",
+        "author-name": "John Doe",
+        "date": "2023-09-14",
+        "title": "The Adventure Begins The Adventure Begins",
+        "time": 12,
+        "hashtag": [
+            "#AdventureNovel",
+            "#MysteryBook"
+        ]
+    },
+    {
+        "id":2,
+        "cover": "https://i.ibb.co/zVDy5w8/top-view-desk-concept-with-coffee.jpg",
+        "author-img": "https://i.ibb.co/4NvK8CF/keegan-houser-Q-t4-SCN8c4-unsplash.jpg",
+        "author-name": "Jane Smith",
+        "date": "2023-09-15",
+        "title": "Mystery Unveiled Mystery Unveiled",
+        "time": 15,
+        "hashtag":  [
+            "#FantasyAdventure",
+            "#MysteryBook"
+        ]
+    },
+    {
+        "id":3,
+        "cover": "https://i.ibb.co/0jjD8Sw/nice-business-desk-black-background.jpg",
+        "author-img": "https://i.ibb.co/6JJt0F3/jonas-svidras-bgo-E05-DFF9-U-unsplash.jpg",
+        "author-name": "Alice Johnson",
+        "date": "2023-09-16",
+        "title": "Fantasy World Fantasy World",
+        "time": 6,
+        "hashtag": [
+            "#FantasyAdventure",
+            "#SciFiBook"
+        ]
+    },
+    {
+        "id":4,
+        "cover": "https://i.ibb.co/zVDy5w8/top-view-desk-concept-with-coffee.jpg",
+        "author-img": "https://i.ibb.co/4NvK8CF/keegan-houser-Q-t4-SCN8c4-unsplash.jpg",
+        "author-name": "Mark Brown",
+        "date": "2023-09-17",
+        "title": "Sci-Fi Odyssey Fantasy World",
+        "time":10,
+        "hashtag": [
+            "#RomanceNovel",
+            "#SciFiBook"
+        ]
+    },
+    {
+        "id":5,
+        "cover": "https://i.ibb.co/zVDy5w8/top-view-desk-concept-with-coffee.jpg",
+        "author-img": "https://i.ibb.co/6JJt0F3/jonas-svidras-bgo-E05-DFF9-U-unsplash.jpg",
+        "author-name": "Sarah Miller",
+        "date": "2023-09-18",
+        "title": "Romantic Escape Fantasy World",
+        "time": 5,
+        "hashtag": [
+            "#RomanceNovel",
+            "#FantasyAdventure"
+        ]
+    }
+]
