@@ -16,7 +16,7 @@ const Blogs = ({handleBookmarkIcon}) => {
 
     return (
         <div className="md:w-2/3"> 
-            <h2>blogs : {blogs.length}</h2>
+            <h2 className="text-3xl font-semibold">blogs : {blogs.length}</h2>
             {
                 blogs.map(blog => <Blog 
                     handleBookmarkIcon={handleBookmarkIcon}
@@ -29,6 +29,6 @@ const Blogs = ({handleBookmarkIcon}) => {
 };
  
 Blogs.propTypes ={
-    handleBookmarkIcon: PropTypes.object.isRequired
+    handleBookmarkIcon: PropTypes.func.isRequired
 }
 export default Blogs;
